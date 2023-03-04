@@ -11,3 +11,5 @@ Também utilizamos a metodologia Atomic Design, criando um arquivo para cada CSS
 Aprnedemos que é interessante organizarmos as propriedades dos nossos arquivos CSS em ordem alfabética, facilitando a busca em nosso código. Por exemplo, se estamos no color e queremos alterar o margin-right, sabemos que ele estará mais abaixo.
 
 Também vimos que é recomendado utilizar apenas seletores de classes, em detrimento dos seletores de ID, de TAG ou seletores alinhados. Isso porque os seletores de classes facilitam as edições caso seja necessário sobrescrevê-los.
+
+Prótotipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
