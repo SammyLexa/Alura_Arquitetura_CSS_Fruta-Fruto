@@ -14,4 +14,6 @@ Também vimos que é recomendado utilizar apenas seletores de classes, em detrim
 
 Prótotipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
 
+Resultado obtido:
+
 ![image](https://user-images.githubusercontent.com/123910027/223007299-6f2df9a1-dd8b-435e-ab5c-1b348b2fe83d.png)
